@@ -1,11 +1,11 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
+    "name":"Corpy.Cafe VRChat",
+    "id":"cafe.corpy.vrc",
     "url":"https://vrchat-community.github.io/template-package-listing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"@Corpy.Cafe",
+        "name":"Corpy",
+        "url":"https://corpy.cafe"
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
