@@ -1,28 +1,22 @@
 {
     "name":"Corpy.Cafe VRChat",
     "id":"cafe.corpy.vrc",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "url":"https://corpyrawr.github.io/Corpy-VCC-listing/index.json",
     "author":{
         "email":"@Corpy.Cafe",
         "name":"Corpy",
         "url":"https://corpy.cafe"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Listing of my VRChat packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"http://github.com/corpyrawr/Corpy-VCC-listing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
     ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
         }
     ]
 }
